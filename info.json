@@ -1,0 +1,15 @@
+{
+    "author": "",
+    "compatibility": [
+        2
+    ],
+    "description": "",
+    "icon": "",
+    "id": "limit_library_search_by_ffprobe_data",
+    "name": "Limit Library Search by FFprobe Data",
+    "priorities": {
+        "on_library_management_file_test": 0
+    },
+    "tags": "",
+    "version": "0.0.1"
+}
