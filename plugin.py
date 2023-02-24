@@ -21,7 +21,7 @@ class Settings(PluginSettings):
     }
     form_settings = {
         "stream_field":          {
-            "label":       "The FFprobe field to match against.",
+            "label":       "The FFprobe field to match against",
             "description": "The name of the FFprobe field to match against with the search strings below."
         },
         "allowed_values":          {
