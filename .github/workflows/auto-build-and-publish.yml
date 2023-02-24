@@ -102,6 +102,7 @@ jobs:
         artifacts: repo/**/*.zip
         generateReleaseNotes: true
         allowUpdates: false
+        skipIfReleaseExists: true
         tag: ${{ steps.prepare.outputs.plugin_version }}
         commit: master
 
